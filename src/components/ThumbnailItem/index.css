@@ -1,0 +1,17 @@
+/* Write your code here. */
+.imageItems {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  justify-content: flex-start;
+}
+
+.btn-Element {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.thumb-url {
+  border-radius: 10px;
+  margin: 10px;
+}

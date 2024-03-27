@@ -1,0 +1,28 @@
+/* Write your code here. */
+.main-Container {
+  width: 100%;
+  margin: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 15px;
+}
+
+.main-Imaige-Container {
+  margin: 10px;
+}
+
+.main-image {
+  height: 80vh;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.heading {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  font-size: 30px;
+}
+.diff-Images {
+  display: flex;
+  flex-direction: row;
+}
